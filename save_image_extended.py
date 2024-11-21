@@ -85,7 +85,7 @@ ComfyUI can only load PNG and WebP at the moment, AVIF is a PR still not merged.
 
   type                    = 'output'
   
-  png_compress_level      = 9
+  png_compress_level      = 6
   avif_quality            = 60
   webp_quality            = 90
   jpeg_quality            = 90
